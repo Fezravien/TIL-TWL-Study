@@ -1,3 +1,3 @@
 # Study Contents 🔥
-## TIL (Today I Learn) 
-## TWI (This week We Learned)
+### TIL (Today I Learned) 
+### TWI (This week We Learned)
