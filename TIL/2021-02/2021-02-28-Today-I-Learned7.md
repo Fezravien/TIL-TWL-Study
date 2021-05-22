@@ -1,3 +1,18 @@
+---
+layout: post
+title: Today I Learned 📚
+tags:
+  - til
+  - yagom-ios-camp-2nd
+hero: https://source.unsplash.com/collection/14233285/
+overlay: orange
+published: true
+
+---
+
+{: .lead}
+<!–-break-–>
+
 # Today I Learned 🔥
 
 ---
@@ -61,7 +76,7 @@
 
   reset은 특정 사건으로 되돌아가게 되는데 과거로 되돌아 갔으니 해당 사건 이후의 사건들은 모두 사라지게 됩니다. 
 
-  ```sh
+  ```bash
   $ git reset <옵션> <돌아가고 싶은 커밋 ID>
   
   $ git reset --soft abcdef

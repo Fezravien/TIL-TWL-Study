@@ -1,4 +1,18 @@
+---
+layout: post
+title: Today I Learned 📚
+tags:
+  - til
+  - yagom-ios-camp-2nd
 
+hero: https://source.unsplash.com/collection/5058541/
+overlay: orange
+published: true
+
+---
+
+{: .lead}
+<!–-break-–>
 
 # Today I Learned 🔥
 
